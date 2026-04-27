@@ -1,0 +1,3 @@
+AI Engineer Intern
+Required skills: Python, SQL, Machine Learning, LLM, RAG, Git, REST API, Docker.
+Responsibilities: build AI prototypes, data pipelines, model evaluation scripts, and experiments using modern AI tooling.

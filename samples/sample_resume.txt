@@ -1,0 +1,1 @@
+Computer Science Engineering student skilled in Python, Java, React and SQL. Built machine learning classification projects, REST APIs, and dashboards. Used GitHub for version control. Beginner knowledge of Docker, LLMs, embeddings, and RAG.
